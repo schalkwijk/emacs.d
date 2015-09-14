@@ -1,0 +1,129 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/samuelleonardo/dev/groupon/services/deal_catalog/app/controllers/deal_catalog/v1/" . "deals/")
+ ("/Users/samuelleonardo/dev/deal-platform/local-third-party-feed/capistrano/" . "tasks/")
+ ("/Users/samuelleonardo/dev/deal-platform/local-third-party-feed/" . "capistrano/")
+ ("/Users/samuelleonardo/dev/deal-platform/local-third-party-feed-integration-tests/" . "spec/")
+ ("/Users/samuelleonardo/dev/deal-platform/local-third-party-feed-integration-tests/lib/" . "access/")
+ ("/Users/samuelleonardo/dev/deal-platform/service/app/controllers/v2/" . "deals/")
+ ("/Users/samuelleonardo/dev/deal-platform/service/app/" . "controllers/")
+ ("/Users/samuelleonardo/dev/deal-platform/" . "local-third-party-feed/")
+ ("/Users/samuelleonardo/dev/" . "deal-platform/")
+ ("/Users/samuelleonardo/Documents/My_Own/projects/ember/authentication/" . "config/")
+ ("/Users/samuelleonardo/Documents/My_Own/projects/ember/authentication/app/" . "routes/")
+ ("/Users/samuelleonardo/Documents/My_Own/projects/" . "ember/")
+ ("/Users/samuelleonardo/Documents/My_Own/" . "projects/")
+ ("/Users/samuelleonardo/Documents/" . "My_Own/")
+ ("/Users/samuelleonardo/" . ".emacs.d/")
+ ("/Users/samuelleonardo/.emacs.d/" . "vendored/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/samuelleonardo/.emacs.d/"
+ "/Users/samuelleonardo/dev/deal-platform/local-third-party-feed/capistrano/tasks/"
+ "/Users/samuelleonardo/dev/deal-platform/local-third-party-feed/"
+ "/Users/samuelleonardo/dev/deal-platform/service/"
+ "/Users/samuelleonardo/dev/groupon/services/deal_catalog/app/controllers/deal_catalog/v1/deals/"
+ "/Users/samuelleonardo/dev/groupon/services/deal_catalog/app/controllers/deal_catalog/v1/"
+ "/Users/samuelleonardo/dev/groupon/"
+ "/Users/samuelleonardo/dev/deal-platform/local-third-party-feed-integration-tests/spec/"
+ "/Users/samuelleonardo/dev/deal-platform/local-third-party-feed-integration-tests/lib/access/"
+ "/Users/samuelleonardo/dev/deal-platform/service/app/controllers/v2/deals/"
+ "/Users/samuelleonardo/Documents/My_Own/projects/ember/authentication/config/"
+ "/Users/samuelleonardo/Documents/My_Own/projects/ember/authentication/app/"
+ "/Users/samuelleonardo/Documents/My_Own/projects/ember/authentication/app/routes/"
+ "/Users/samuelleonardo/Documents/My_Own/projects/ember/"
+ "/Users/samuelleonardo/"
+ "/Users/samuelleonardo/.emacs.d/vendored/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "migrations.rake"
+ "redemption_locations_controller.rb"
+ "deals_controller.rb"
+ "deploy.rake"
+ "goldstar_one_feed_run_spec.rb"
+ "goldstar_two_feed_run_spec.rb"
+ "pause_in_place_spec.rb"
+ "restaurant_dot_com_spec.rb"
+ "run_frequency_spec.rb"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/samuelleonardo/dev/deal-platform/local-third-party-feed/capistrano/tasks/" (22007 20283 0 0) "sql-runner.rake" "migrations.rake" "jar.rake" "deploy.rake" ".#deploy.rake" "../" "./")
+
+ ("/Users/samuelleonardo/.emacs.d/" (22007 19671 0 0) "vendored/" "smex-items" "projectile.cache" "projectile-bookmarks.eld" "init.el" "ido.last" "elpa/" "auto-save-list/" ".mc-lists.el" "../" "./")
+
+ ("/Users/samuelleonardo/" (22007 19810 0 0) "tmp/" "Public/" "Pictures/" "Music/" "Movies/" "Library/" "Downloads/" "Documents/" "dev/" "Desktop/" "configstore/" "Applications/" "all-data.tar.gz" ".zshrc" ".zlogin" ".z.cdrsuA" ".z" ".viminfo" ".vim/" ".Trash/" ".tmux.conf~" ".tmux.conf" ".ssh/" ".rvm/" ".rspec" ".psql_history" ".profile" ".oracle_jre_usage/" ".npm/" ".mono/" ".mkshrc" ".m2/" ".local/" ".lesshst" ".irb-history" ".htoprc" ".gitk" ".gitignore_global" ".gitignore.backup" ".gitconfig" ".gem/" ".emacs.d.pre-prelude.tar" ".emacs.d/" ".DS_Store" ".config/" ".CFUserTextEncoding" ".cache/" ".bashrc" ".bash_profile.backup" ".bash_profile" ".bash_history" ".appcfg_oauth2_tokens" ".account" "../" "./")
+
+ ("/Users/samuelleonardo/dev/deal-platform/local-third-party-feed/" (22007 18065 0 0) "src/" "script/" "Runbook.md" "README.md" "pom.xml" "logs/" "local-third-party-feed.iws" "local-third-party-feed.ipr" "local-third-party-feed.iml" "local-third-party-feed-fa94013bffcb.jar" "Gemfile.lock" "Gemfile" "divisions.md" "capistrano/" "Capfile" ".service.yml" ".ruby-version" ".ruby-gemset" ".idea/" ".gitignore" ".git/" ".ci.yml" "../" "./")
+
+ ("/Users/samuelleonardo/dev/deal-platform/service/app/controllers/v2/deals/" (22007 18176 0 0) "videos_controller.rb" "variants_controller.rb" "traits_controller.rb" "seo_contents_controller.rb" "products_controller.rb" "products/" "nodes_controller.rb" "links_controller.rb" "legacy_instances_controller.rb" "images_controller.rb" "history_controller.rb" "getaways_creative_contents_controller.rb" "distribution_windows_controller.rb" "creative_contents_controller.rb" "categories_controller.rb" "../" "./")
+
+ ("/Users/samuelleonardo/dev/groupon/services/" (22000 37555 0 0) "voucher_inventory/" "users/" "purchasability_region_service/" "purchasability/" "orders/" "messaging/" "marketing_drives/" "images_service/" "deal_catalog/" "api/" "ads/" "../" "./")
+
+ ("/Users/samuelleonardo/dev/groupon/services/deal_catalog/" (22000 37554 0 0) "spec/" "lib/" "app/" "../" "./")
+
+ ("/Users/samuelleonardo/dev/groupon/services/deal_catalog/app/" (22000 37554 0 0) "presenters/" "observers/" "models/" "controllers/" "../" "./")
+
+ ("/Users/samuelleonardo/dev/groupon/services/deal_catalog/app/controllers/" (22000 37554 0 0) "deal_catalog_private_controller.rb" "deal_catalog_controller.rb" "deal_catalog/" "../" "./")
+
+ ("/Users/samuelleonardo/dev/groupon/services/deal_catalog/app/controllers/deal_catalog/" (22000 37554 0 0) "v1/" "../" "./")
+
+ ("/Users/samuelleonardo/dev/groupon/services/deal_catalog/app/controllers/deal_catalog/v1/deals/" (22000 37554 0 0) "redemption_locations_controller.rb" "products_controller.rb" "products/" "pricing_controller.rb" "personas_controller.rb" "lifecycle_controller.rb" "images_controller.rb" "getaways_creative_contents_controller.rb" "distribution_windows_controller.rb" "creative_contents_controller.rb" "../" "./")
+
+ ("/Users/samuelleonardo/dev/groupon/services/deal_catalog/app/controllers/deal_catalog/v1/" (22000 37554 0 0) "deals_controller.rb" "deals/" "../" "./")
+
+ ("/Users/samuelleonardo/dev/groupon/" (22000 37566 0 0) "vendor/" "tmp/" "TAGS" "spec/" "services/" "script/" "README" "Rakefile" "qa/" "public/" "log/" "lib/" "Guardfile" "Gemfile.lock" "Gemfile" "features/" "extensions/" "doc/" "db/" "config.ru.example" "config.rb" "config/" "Capfile" "app/" ".specjour/" ".rvmrc" ".rspec" ".pairs" ".jshintignore" ".gitignore" ".githooks" ".git/" "../" "./")
+
+ ("/Users/samuelleonardo/dev/deal-platform/local-third-party-feed-integration-tests/" (22007 4553 0 0) "tags" "spec/" "scripts/" "README.md" "Rakefile" "lib/" "Gemfile.lock" "Gemfile" "config/" ".gitignore" ".git/" ".ci.yml" "../" "./")
+
+ ("/Users/samuelleonardo/dev/deal-platform/local-third-party-feed-integration-tests/spec/" (22007 6055 0 0) "spec_helper.rb" "run_frequency_spec.rb" "restaurant_dot_com_spec.rb" "restaurant_builders/" "pause_in_place_spec.rb" "offer_builders/" "goldstar_two_feed_run_spec.rb" "goldstar_one_feed_run_spec.rb" "example_restaurant_feed.xml" "example_goldstar_feed.json" "event_builders/" "duplicate_deal_spec.rb" "common_feed_spec.rb" "../" "./")
+
+ ("/Users/samuelleonardo/dev/deal-platform/local-third-party-feed/capistrano/" (22000 36656 0 0) "tasks/" "stages/" "deploy-configuration.rb" "../" "./")
+
+ ("/Users/samuelleonardo/dev/deal-platform/local-third-party-feed-integration-tests/lib/access/" (22006 61464 0 0) "product_import_state_accessor.rb" "partner_division_accessor.rb" "partner_accessor.rb" "image_override_accessor.rb" "distribution_constraint_accessor.rb" "deal_import_state_accessor.rb" "database.rb" "../" "./")
+
+ ("/Users/samuelleonardo/dev/deal-platform/local-third-party-feed-integration-tests/lib/" (22006 61464 0 0) "voucher_inventory_client.rb" "rom_com_deal_factory.rb" "pwa_client.rb" "goldstar_deal_factory.rb" "feed_server.rb" "feed_runner.rb" "feed_orchestrator.rb" "deal_management_client.rb" "deal_catalog_client.rb" "coupon_deal_factory.rb" "configuration.rb" "access/" "../" "./")
+
+ ("/Users/samuelleonardo/dev/deal-platform/service/app/controllers/v2/" (22001 54303 0 0) "targeting_criteria_controller.rb" "status_controller.rb" "legal_callouts_controller.rb" "legal_callouts/" "deals_controller.rb" "deals/" "creative_content_preview_controller.rb" "config_controller.rb" "clients_controller.rb" "base_controller.rb" "../" "./")
+
+ ("/Users/samuelleonardo/dev/deal-platform/service/app/controllers/" (22000 36669 0 0) "v2/" "v1/" "filter_deleted_products.rb" "controller_info_logging_filter.rb" "client_support.rb" "application_controller.rb" "../" "./")
+
+ ("/Users/samuelleonardo/dev/deal-platform/service/app/" (22000 36669 0 0) "serializers/" "presenters/" "observers/" "models/" "metals/" "managers/" "domain/" "dao/" "controllers/" "../" "./")
+
+ ("/Users/samuelleonardo/dev/deal-platform/service/" (22001 55037 0 0) "VERSION" "tmp/" "TAGS" "spec/" "smoke_test/" "SHA" "script/" "Runbook.md" "README.md" "Rakefile" "packages/" "notes.org" "log/" "lib/" "history.json" "Gemfile.lock" "Gemfile" "doc/" "de-to-dcs.org" "db/" "config.ru" "config/" "app/" ".service.yml" ".rvmrc.mri" ".rvmrc" ".rubocop_todo.yml" ".rubocop.yml" ".gitignore" ".git/" ".ci.yml" "../" "./")
+
+ ("/Users/samuelleonardo/dev/deal-platform/" (22000 39508 0 0) "uat-integration-tests/" "service-discovery-client/" "service/" "seo-content-service/" "salesforce-deal-sync/" "resque/" "pwa-mirror/" "local-third-party-feed-integration-tests/" "local-third-party-feed/" "hipchat_bot/" "hacked-warbler/" "g-bus/" "example/" "dmapi-integration-tests/" "deploy/" "config/" "client-acceptance-tests/" "client/" "../" "./")
+
+ ("/Users/samuelleonardo/Documents/My_Own/projects/ember/authentication/config/" (22006 6217 0 0) "environment.js" "../" "./")
+
+ ("/Users/samuelleonardo/Documents/My_Own/projects/ember/authentication/app/routes/" (22006 22790 0 0) "application.json" "../" "./")
+
+ ("/Users/samuelleonardo/Documents/My_Own/projects/" (22006 10187 0 0) "StreamusServer/" "StreamusChromeExtension/" "ruby-scripts/" "image-viewer-c++/" "image-viewer/" "go/" "ember/" "elixir/" "colatz/" "coding_problems/" "clojure-koans/" "clojure/" "c/" "bencoding/" "applewatch/" "../" "./")
+
+ ("/Users/samuelleonardo/Documents/My_Own/projects/ember/" (22006 5716 0 0) "authentication/" "../" "./")
+
+ ("/Users/samuelleonardo/Documents/My_Own/" (22004 33592 0 0) "verizon_bill.pdf" "vehicles.org" "shelby_lease.pdf" "seattle_offer_letter.pdf" "sam_lopes_resume.pdf" "resume.docx" "renters_insurance.pdf" "rangoon_rby.pdf" "Purchase Receipt _ My Account _ Goldstar.pdf" "pun.gif" "projects/" "pro_verification.pdf" "pro_id.pdf" "pro_funds.pdf" "pro_application.pdf" "photos/" "photo.JPG" "PERM/" "paystub.pdf" "org/" "old_fish_config/" "my_own" "King Lear Tix.pdf" "Itinerary_ GuestHouse Inn & Suites Seaside, Seaside.pdf" "insurance_id_card.pdf" "finances.org" "emacs-live-config/" "EB-3/" "Data Privacy and Protection_ Global Edition.pdf" "comcast_bill.pdf" "chase.txt" "cab_to_palo_alto.pdf" "cab_home.pdf" "Brasilian_Passport /" "Anchor Beach Inn Crescent City to HI Point Reyes - Google Maps.pdf" "ally/" "2013 Form 1098E.pdf" ".idea/" ".DS_Store" "../" "./")
+
+ ("/Users/samuelleonardo/Documents/" (22004 35366 0 0) "workspace/" "vendor/" "si-7-agent.sparseimage" "RDC Connections/" "My_Own/" "Microsoft User Data/" "loans.png" "Library/" "Klei/" "interviews/" "Eclipse/" "Amazon Music Importer/" "../" "./")
+
+ ("/Users/samuelleonardo/dev/" (22000 39886 0 0) "voucher-inventory/" "uuid-support/" "typhoeus/" "steno_ruby/" "sls/" "sinatra/" "service-discovery/" "service-client/" "ruby-messagebus/" "responseable/" "prod-tools/" "prod-ops/" "orders/" "image-service/" "i-tier/" "hindsight/" "hadoop_config-cdh4/" "groupon-stores-api/" "groupon-config-local/" "groupon/" "goods/" "go/" "global-subscriptions/" "gaslight/" "fingerprint/" "emailconfig/" "editorial/" "deploy_station/" "deal-platform/" "coupons/" "ci-build/" "big-o-lunch/" "berlin/" "audience/" "../" "./")
+
+ ("/Users/samuelleonardo/.emacs.d/vendored/" (22006 10039 0 0) "powerline.el" "../" "./")
+
+ ("/Users/samuelleonardo/Documents/My_Own/projects/ember/authentication/" (22006 5846 0 0) "vendor/" "tests/" "testem.json" "README.md" "public/" "package.json" "node_modules/" "ember-cli-build.js" "config/" "bower_components/" "bower.json" "app/" ".watchmanconfig" ".travis.yml" ".jshintrc" ".gitignore" ".git/" ".ember-cli" ".editorconfig" ".bowerrc" "../" "./")
+
+ ("/Users/samuelleonardo/Documents/My_Own/projects/ember/authentication/app/" (22006 8893 0 0) "templates/" "styles/" "routes/" "router.js" "models/" "index.html" "helpers/" "controllers/" "components/" "app.js" "../" "./")
+
+ ("/Users/samuelleonardo/.emacs.d/auto-save-list/" (22006 9054 0 0) ".saves-51726-C02PRYW9G8WP.group.on~" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

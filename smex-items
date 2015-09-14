@@ -1,0 +1,21 @@
+
+;; ----- smex-history -----
+(
+ list-packages
+ package-install
+ eval-region
+ delete-trailing-whitespace
+ projectile-global-mode
+ cd
+ 5x5
+)
+
+;; ----- smex-data -----
+(
+ (eval-region . 2)
+ (projectile-invalidate-cache . 1)
+ (projectile-global-mode . 2)
+ (delete-trailing-whitespace . 2)
+ (package-install . 1)
+ (list-packages . 1)
+)

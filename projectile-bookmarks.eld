@@ -1,0 +1,1 @@
+("~/.emacs.d/" "~/dev/deal-platform/local-third-party-feed/" "~/dev/deal-platform/service/")
